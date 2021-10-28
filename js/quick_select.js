@@ -1,0 +1,1 @@
+function quick_select() {}
