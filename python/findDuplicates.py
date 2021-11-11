@@ -22,4 +22,4 @@ def findDuplicates(list):
 
 
 print(findDuplicates([5,4,3,4,1,2]))
-
+ 
